@@ -1,0 +1,19 @@
+{
+    "name": "clutch-property-mgmt/business-domain",
+    "description": "Pure business domain models for Clutch Property Management. Contains framework-agnostic entities such as Property, Unit, Address, CompanyInfo, ContactInfo, and related value objects. Designed for Clean Architecture: zero infrastructure, no PDO, no external dependencies.",
+    "type": "library",
+    "require": {
+        "phpolar/model": "^2.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "ClutchPropertyMgmt\\BusinessDomain\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eric Fortmeyer",
+            "email": "e.fortmeyer@gmail.com"
+        }
+    ]
+}
