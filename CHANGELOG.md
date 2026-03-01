@@ -1,3 +1,9 @@
+## 1.1.0 (2026-02-28)
+
+### Feat
+
+- add model support and validation
+
 ## 1.0.1 (2026-02-22)
 
 ### Fix
