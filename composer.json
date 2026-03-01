@@ -4,7 +4,8 @@
     "description": "Pure business domain models for Clutch Property Management. Contains framework-agnostic entities such as Property, Unit, Address, CompanyInfo, ContactInfo, and related value objects. Designed for Clean Architecture: zero infrastructure, no PDO, no external dependencies.",
     "type": "library",
     "require": {
-        "phpolar/model": "^2.2"
+        "phpolar/model": "^2.2",
+        "phpolar/validators": "^1.4"
     },
     "license": "proprietary",
     "autoload": {
