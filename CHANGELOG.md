@@ -1,3 +1,9 @@
+## 1.2.0 (2026-03-01)
+
+### Feat
+
+- add support for hidden fields
+
 ## 1.1.0 (2026-02-28)
 
 ### Feat
