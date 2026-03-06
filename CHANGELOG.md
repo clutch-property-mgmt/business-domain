@@ -1,3 +1,9 @@
+## 1.2.1 (2026-03-05)
+
+### Fix
+
+- **Property**: use empty array as default property images value
+
 ## 1.2.0 (2026-03-01)
 
 ### Feat
