@@ -48,5 +48,5 @@ final class Property extends AbstractModel
     /**
      * @var PropertyImage[]
      */
-    public array $propertyImages;
+    public array $propertyImages = [];
 }
